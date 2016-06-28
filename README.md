@@ -1,7 +1,7 @@
 # LAVID
 Atividade Prática: Desenvolvimento de Sistemas
 
-Programa feito utilizando NetBeans IDE 8.1 utilizando a linguagem Java para ler o fluxo de pacotes TS do arquivo de vídeo.ts e extrair as informações das tabelas de sinalização PAT e PMT, apresentando as principais infomações contidas nessas tabelas.
+Programa feito utilizando a linguagem Java para ler o fluxo de pacotes TS do arquivo de vídeo.ts e extrair as informações das tabelas de sinalização PAT e PMT, apresentando as principais infomações contidas nessas tabelas. A IDE utilizada foi o NetBeans IDE 8.1.
 
 <b>Diretório do vídeo:</b> Na classe Conversores está a definição do diretório do vídeo.ts;
 
