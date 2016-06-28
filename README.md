@@ -5,7 +5,7 @@ Programa feito utilizando a linguagem Java para ler o fluxo de pacotes TS do arq
 
 <b>Diretório do vídeo:</b> Na classe Conversores está a definição do diretório do vídeo.ts;
 
-<b>Execução do projeto:</b> Para executar o programa basta importar o projeto e rodar;
+<b>Execução do projeto:</b> Para executar o programa basta importar o projeto e executar o Main;
 
 <b>PAT_e_PMT.java:</b> Compacto com todas as classes juntas e definição do diretório do video.ts no C:\. Basta compilar e executar; 
 
