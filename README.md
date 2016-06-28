@@ -7,7 +7,7 @@ Programa feito utilizando a linguagem Java para ler o fluxo de pacotes TS do arq
 
 <b>Execução do projeto:</b> Para executar o programa basta importar o projeto e rodar;
 
-<b>All_in_one.java:</b> Compacto com todas as classes juntas e definição do diretório do video.ts no C:\. Basta compilar e executar; 
+<b>PAT_e_PMT.java:</b> Compacto com todas as classes juntas e definição do diretório do video.ts no C:\. Basta compilar e executar; 
 
 <b>Resultados:</b> Os resultados obtidos do video.ts disponibilizado foram salvos nos arquivos resultados.xlsx e resultados_pat_pmt.txt dividindo os elementos para melhor compreensão;
 
