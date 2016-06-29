@@ -548,7 +548,7 @@ public static List<PAT> listaPAT; //Criar lista PAT
 			} //Fim do if
                      } //Fim do while
 		} //Fim do for
-                System.out.println("Total PMT - " + listaPMT.size());
+                /*System.out.println("Total PMT - " + listaPMT.size());
 		int cont1 = 1;
                 int cont2 = 2;
 		for (PMT pp : listaPMT) {
